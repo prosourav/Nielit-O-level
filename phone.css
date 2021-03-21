@@ -1,0 +1,54 @@
+#navbar{
+    flex-direction: column;
+}
+#Clients{
+    flex-direction: column;
+  
+}
+#navbar ul li a {
+    padding: 8px; 
+}
+
+
+#navbar ul li {
+    font-size: 20px;
+}
+#home h1 {
+    font-size: 24px;
+}
+#home p{
+    font-size: 19px;
+}
+#home button {
+    height: 44px;
+    font-size: 18px;
+    width: 96px;
+}
+#home {
+    padding: 32px;
+}
+#home .sec{
+    text-align: center;
+    padding-top: 22vmin;
+}
+#Clients-sec {
+    margin-top: 142px;
+}
+#AboutUs .con{
+    padding-top: 1rem;
+}
+#AboutUs .con p{
+  font-size: 16px;
+}
+#AboutUs {
+    margin-top: 0px; 
+}
+#AboutUs {
+    font-size: 18px;
+}
+#Contact-box input, #Contact-box textarea {
+    width: 95%;
+    padding: 6px;
+    font-size: 10px;   
+}
+
